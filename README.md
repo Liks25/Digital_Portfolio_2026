@@ -1,86 +1,131 @@
-# Likhona Nxusani – Digital Portfolio 2026
-👤 About Me
+# 👋 Hi, I'm Likhona Nxusani
 
-I am an ICT Applications Development Diploma graduate with hands-on experience in building web, mobile, and database-driven applications. I am skilled in Java, Python, PHP, and SQL, with a growing interest in software quality assurance and testing. I am passionate about solving problems and developing user-friendly solutions.  ￼
+**ICT Applications Development Graduate | QA & Software Testing | Cybersecurity | Offensive Security Enthusiast**
 
-⸻
+I'm an ICT Applications Development graduate with a foundation in **software development, databases, APIs, and application testing**, currently expanding my skills into **cybersecurity and offensive security**.
 
-🎓 Education
+My development background has given me an understanding of how applications are designed and built. I'm now using that foundation to strengthen my skills in **software quality assurance, API testing, web application security, and penetration testing**.
 
-Cape Peninsula University of Technology
+## 🎯 Current Focus
+
+* 🧪 Software Quality Assurance & Testing
+* 🔌 API Testing
+* 🔐 Cybersecurity Fundamentals
+* 🌐 Web & Application Security
+* 🛡️ Offensive Security & Penetration Testing
+* 📚 ISTQB CTFL preparation
+* 🎯 Long-term goal: Web Application Penetration Testing / Application Security
+
+## 🎓 Education
+
+**Cape Peninsula University of Technology (CPUT)**
 Diploma in Information Technology: Applications Development
-2021 – 2025  ￼
+2021 – 2025
 
-⸻
+**CTU Training Solutions / Cisco / MICTSETA**
+Occupational Certificate: Cybersecurity Analyst
+Currently completing
 
-🛠️ Skills
+## 🛠️ Technical Skills
 
-Programming
-	•	Java
-	•	Python
-	•	PHP
-	•	JavaScript
-	•	HTML & CSS  ￼
+### Development
 
-Databases
-	•	SQL Workbench
-	•	SQLite
-	•	Database design and queries  ￼
+* Java
+* Python
+* PHP
+* JavaScript
+* HTML & CSS
+* Next.js
+* REST APIs
+* Android Development
 
-Frameworks & Tools
-	•	Next.js
-	•	Android Studio
-	•	REST API Development  ￼
+### Databases
 
-Testing & Quality Assurance
-	•	Bug identification
-	•	Debugging
-	•	Unit testing
-	•	Test case design
-	•	API testing  ￼
+* SQL
+* SQLite
+* Database Design
+* SQL Queries
 
-Methodologies
-	•	Agile software development (Scrum & sprints)
+### QA & Testing
 
-⸻
+* Test Case Design
+* Functional Testing
+* API Testing
+* Bug Identification & Reporting
+* Debugging
+* Unit Testing
+* Regression Testing
+* Agile / Scrum
 
-🧪 Projects
+### Cybersecurity
 
-💅 Salon Booking Website – Next.js, Java, SQL
-	•	Full-stack web app for appointments and admin verification
-	•	Payment recording and receipt issuing
-	•	Database for bookings, payments, and sales  ￼
+* Networking Fundamentals
+* Linux Fundamentals
+* Web Security Fundamentals
+* OWASP Concepts
+* HTTP/HTTPS
+* Burp Suite *(currently developing)*
+* Penetration Testing *(currently developing)*
 
-✔ Task Management App – Android Studio, SQLite
-	•	CRUD operations for tasks
-	•	Due dates, reminders, and timestamps
-	•	Fragment and adapter testing  ￼
+## 🧪 Projects
 
-🏋 Gym Management System – SQL Workbench
-	•	Member registration and subscriptions
-	•	Services and payments database
-	•	Report generation queries  ￼
+### 💅 Salon Booking Website
 
-💳 Payment Backend – Java REST API
-	•	PaymentController with CRUD operations
-	•	Data consistency across users, bookings, payments  ￼
+**Next.js | Java | SQL**
 
-🏥 Nursing Scheduling System (Academic Project)
-	•	Designed a timetable/scheduling system for nurses
-	•	Focused on shift allocation and workload balance
-	•	Applied Agile teamwork and sprint planning
+* Full-stack web application for appointment management
+* Admin verification and booking management
+* Payment recording and receipt generation
+* Relational database for bookings, payments and sales
 
-⸻
+### ✔ Task Management Application
 
-🧭 Interests
-	•	Software Testing and QA
-	•	Full-stack development
-	•	Fitness & training  ￼
+**Android Studio | SQLite**
 
-⸻
+* CRUD functionality for task management
+* Due dates, reminders and timestamps
+* Applied testing during application development
 
-📫 Contact Information
-	•	Phone: 078 527 8562
-	•	Email: nxusain25@gmail.com
-  •	LinkedIn: www.linkedin.com/in/likhona-nxusani
-	•	GitHub: Liks25
+### 🏋️ Gym Management System
+
+**SQL Workbench**
+
+* Member registration and subscription management
+* Services and payment database
+* Reporting and database queries
+
+### 💳 Payment Backend
+
+**Java | REST API**
+
+* REST API for payment-related operations
+* CRUD functionality
+* Data consistency across users, bookings and payments
+
+### 🏥 Nursing Scheduling System
+
+**Academic Project**
+
+* Designed a nurse scheduling and timetable system
+* Focused on shift allocation and workload balancing
+* Applied Agile teamwork and sprint planning
+
+## 🚀 What I'm Building Next
+
+I'm currently developing a portfolio focused on **QA and software testing**, including:
+
+* Test plans
+* Test cases
+* Bug reports
+* API testing
+* Test summary reports
+* QA documentation
+* Test automation
+
+Alongside QA, I'm continuing to develop my cybersecurity skills with a long-term focus on **web application penetration testing and application security**.
+
+## 📫 Connect With Me
+
+* 📧 **Email:** [nxusain25@gmail.com](mailto:nxusain25@gmail.com)
+* 💼 **LinkedIn:** [linkedin.com/in/likhona-nxusani](https://www.linkedin.com/in/likhona-nxusani)
+* 💻 **GitHub:** [github.com/Liks25](https://github.com/Liks25)
